@@ -1,3 +1,13 @@
-div>a{
-  font-size: 45px;
+#navigation{
+  font-size: 35px;
+  background-color: red;
+}
+
+div#navigation ul li a{
+  color: #fff;
+}
+
+#navigation ul li a:hover{
+  background-color: red;
+  color: #3d3d2c;
 }
